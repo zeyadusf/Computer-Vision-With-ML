@@ -18,10 +18,7 @@ Sample From DataSet
 
 In this project, through simple data for geometric shapes ,4 Classes : (circle, square, star, triangle) , I apply the concept of Chain Code Histogram using computer vision and machine learning algorithms (SVM Classifier ) for the object detection task.
 
-<!--🔗 <b> NoteBooke in Kaggel  : []() -->
-
-🔗<b> Dataset in kaggle :</b> [Simple shapes Images](www.kaggle.com/datasets/zeyadusf/simple-shapes-images)
-
+🔗 <b> NoteBooke in Kaggel  : [Computer Vision With ML- Object detection Task](https://www.kaggle.com/code/zeyadusf/computer-vision-with-ml-object-detection-task#Object-detection--Task) 
 
 This is the output of the model.
 <div align="center"> 
